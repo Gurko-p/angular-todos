@@ -1,0 +1,17 @@
+.done{
+    text-decoration: line-through;
+}
+
+.status-done-count{
+    color: #28a745;
+}
+
+.status-need-todo-count{
+    color: #dc3545;
+}
+
+div.itemTodo ul{
+    display: flex;
+    justify-content: center;
+}
+
